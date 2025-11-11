@@ -45,4 +45,5 @@ if st.button("Converter", icon="🌡"):
         st.write(f"{temp}K em Fahrenheit: °F")
     else:
         st.warning("Selecione pelo menos uma unidade para conversão.")    
-                 
+# Melhor jogo de Termo e desenvolvido por um aluno SENAI              
+# Entra no https://muskiguess.onrender.com/

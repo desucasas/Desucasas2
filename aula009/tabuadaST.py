@@ -2,12 +2,10 @@ import streamlit as st
 
 #Tabuada
 #Titulo da página
-
 TITULO ="Tabuada"
 st.title(TITULO)
 st.set_page_config("Tabuada")
-
-#Entrada de dados
+r#Entrada de dados
 n = None
 try:    
     n = int(st.text_input("Deseja a tabuada de qual número:"))
